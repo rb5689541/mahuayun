@@ -3,6 +3,9 @@
 ## 麻花云 介绍
 麻花云，隶属合肥网联网络科技有限公司，成立于2007年，主要提供云服务基础设施服务平台（IaaS）。面向全球客户提供基于云计算的IT解决方案与服务，特别在国内BGP、双线高防以及香港等优质的IDC资源方面具有竞争力。
 
+![image](https://github.com/rb5689541/mahuayun/assets/167603929/1e3184aa-8cf5-4e5d-a788-17a63fdc9256)
+
+
 ## 麻花云 官网地址
 [https://www.mhyun.net](https://www.mhyun.net/aff/MHSVYVBM)
 
